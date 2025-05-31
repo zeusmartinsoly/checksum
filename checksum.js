@@ -1,4 +1,4 @@
-// Vercel Serverless API route for CheckSum
+// Vercel Serverless API route for CheckSum.
 export default function handler(req, res) {
   const crypto = require('crypto');
 
